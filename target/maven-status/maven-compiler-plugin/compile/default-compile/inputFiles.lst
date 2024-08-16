@@ -1,0 +1,9 @@
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\controller\StudentController.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\entity\Student.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\feignclient\AddressFeignClient.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\repository\StudentRepository.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\request\CreateStudentRequest.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\response\AddressResponse.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\response\StudentResponse.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\service\StudentService.java
+D:\java Projects\SpringCloud\university-monolithic-app\student-service\src\main\java\com\sohaib\app\StudentServiceApplication.java
